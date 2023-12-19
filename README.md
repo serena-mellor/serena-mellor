@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **React**
-- 👩‍🎓 Recently graduated from Le Wagon, Barcelona
+- 👩‍🎓 Recently graduated from **Le Wagon, Barcelona**
 - 📚 Always looking to further my skills
 - 📫 How to reach me: **serenamellor@outlook.com**
 
