@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Serena Mellor</h1>
-<h3 align="center">Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **React**
 - 👩‍🎓 Recently graduated from **Le Wagon, Barcelona**
